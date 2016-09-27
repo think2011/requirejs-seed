@@ -1,0 +1,8 @@
+@import "mixin";
+@import "animate";
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-appearance: none;
+}
